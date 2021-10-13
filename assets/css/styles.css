@@ -283,7 +283,7 @@ footer {
 @media screen and (max-width: 720px) {
   /*changes reflects on screen with a width of 720px and below*/
 }
-/*
+
 nav {
   padding: 1.5rem 1rem;
 }
@@ -376,7 +376,7 @@ nav ul.show {
     max-width: 17.75rem;
   }
 } 
-*/
+
 
 html {
   scroll-behavior: smooth;
